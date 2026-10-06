@@ -1,4 +1,5 @@
 hello, my name is sumedhav
 i am learning git
 git is starting to make sense
-this is actually pretty cool\n
+this is actually pretty cool
+I am working on a git feature branch
